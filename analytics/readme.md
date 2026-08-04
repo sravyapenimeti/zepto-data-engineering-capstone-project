@@ -43,6 +43,7 @@ titanic.csv
 analytics/
 │
 ├── 01_eda.ipynb
+├── 02_modeling.ipynb
 ├── titanic.csv
 ├── best_pipeline.joblib
 ├── charts/
@@ -65,6 +66,7 @@ analytics/
 
 1. Install required packages.
 2. Run `01_eda.ipynb`.
+3. Run `02_modeling.ipynb`.
 3. Review generated charts and outputs.
 
 ## Outputs
