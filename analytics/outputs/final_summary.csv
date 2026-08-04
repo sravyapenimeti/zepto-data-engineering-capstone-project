@@ -1,0 +1,5 @@
+Metric,Value
+Best Classification Model,Baseline
+Best Accuracy,0.8156424581005587
+Linear Regression R2,0.38798648199860364
+Adjusted R2,0.3739172057227095
